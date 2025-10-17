@@ -65,12 +65,12 @@ pip install -r requirements.txt
 Run the main detection script:
 
 ```bash
-python detect_emotions.py
+python final.py
 ```
 
 - Open your webcam feed with real-time emotion detection.
 - Press `q` or `Esc` to quit.
-- For image inference: `python detect_image.py --image path/to/image.jpg`
+- For image inference: `python final.py --image path/to/image.jpg`
 
 ---
 
