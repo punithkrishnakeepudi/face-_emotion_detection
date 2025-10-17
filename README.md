@@ -34,7 +34,7 @@ Ensure you have **Python 3.8+** installed.
 Required libraries:
 
 ```bash
-pip install opencv-python tensorflow keras numpy matplotlib
+pip install ultralytics opencv-python
 ```
 
 *Note: Adjust dependencies based on your specific implementation.*
